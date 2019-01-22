@@ -1,2 +1,2 @@
 # yacreamer.github.io
-public url 
+public url (http://yacreamer.github.io)
