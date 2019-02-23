@@ -1,0 +1,21 @@
+body{
+  background: #FFE7A9;
+}
+
+h1{
+  border: 1px dashed white;
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+.yaniza{
+  color: red;
+}
+#workexperience { text-decoration:
+line-through;}
+
+#profileimage{
+  text-align: center;
+
+}
